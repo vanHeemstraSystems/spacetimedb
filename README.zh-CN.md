@@ -1,6 +1,6 @@
-repository-name
+spacetimedb
 
-# 存储库名称
+# spacetimedb
 
 > 板条
 
@@ -20,7 +20,7 @@ repository-name
 
 文本
 
-生成[ritr](https://app.rytr.me)
+生成[Rytr](https://app.rytr.me)
 
 ## 100-简介
 
