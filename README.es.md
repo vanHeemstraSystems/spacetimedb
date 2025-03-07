@@ -1,6 +1,6 @@
-repositorio
+spacetimedb
 
-# Nombre de repositorio
+# Spacetimedb
 
 > Línea de babosa
 
