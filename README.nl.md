@@ -5,7 +5,7 @@ spacetimedb
 > Sluglijn
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Documentatie](./DOCUMENTATION.md)
 -   [Glossarium](./GLOSSARY.md)
 -   [Klep](./HATCH.md)
 -   [Gastheren](./HOSTS.md)
