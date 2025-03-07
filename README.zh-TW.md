@@ -2,7 +2,7 @@ spacetimedb
 
 # spacetimedb
 
-> Slugline
+> 板條
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
@@ -10,17 +10,17 @@ spacetimedb
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
 -   [圖像](./IMAGES.md)
--   [Nx](./NX.md)
--   [Podman](./PODMAN.md)
+-   [nx](./NX.md)
+-   [Subman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
--   [Telemetry](./TELEMETRY.md)
+-   [遙測](./TELEMETRY.md)
 
 **執行摘要**
 
 文字
 
-Generated with [ritr](https://app.rytr.me)
+生成[ritr](https://app.rytr.me)
 
 ## 100-簡介
 
