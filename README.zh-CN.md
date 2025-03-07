@@ -5,7 +5,7 @@ spacetimedb
 > 板条
 
 -   [DNS](./DNS.md)
--   [文档](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
