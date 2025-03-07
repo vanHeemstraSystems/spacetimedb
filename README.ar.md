@@ -1,6 +1,6 @@
 SpacetimedB
 
-# SpaceTimeDB
+# SpacetimedB
 
 > Slugline
 
