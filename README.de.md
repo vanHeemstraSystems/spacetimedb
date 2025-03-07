@@ -1,6 +1,6 @@
 spacetimedb
 
-# SpaceTimeDB
+# Spacetimedb
 
 > Slugline
 
