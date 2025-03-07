@@ -1,8 +1,8 @@
-repository-name
+spacetimedb
 
-# 存儲庫名稱
+# spacetimedb
 
-> 板條
+> Slugline
 
 -   [DNS](./DNS.md)
 -   [文件](./DOCUMENTATION.md)
@@ -10,17 +10,17 @@ repository-name
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
 -   [圖像](./IMAGES.md)
--   [nx](./NX.md)
--   [Subman](./PODMAN.md)
+-   [Nx](./NX.md)
+-   [Podman](./PODMAN.md)
 -   [參考](./REFERENCES.md)
 -   [要求](./REQUIREMENTS.md)
--   [遙測](./TELEMETRY.md)
+-   [Telemetry](./TELEMETRY.md)
 
 **執行摘要**
 
 文字
 
-生成[ritr](https://app.rytr.me)
+Generated with [ritr](https://app.rytr.me)
 
 ## 100-簡介
 
