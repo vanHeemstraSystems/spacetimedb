@@ -1,6 +1,6 @@
-भंडार-नाम
+spacetimedb
 
-# भंडार नाम
+# Spacetimedb
 
 > स्लगलाइन
 
