@@ -1,6 +1,6 @@
 spacetimedb
 
-# SpaceTimeDB
+# spacetimedb
 
 > 板条
 
