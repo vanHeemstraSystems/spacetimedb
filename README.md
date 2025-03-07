@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+spacetimedb
+# SpaceTimeDB
 
 > Slugline
 
