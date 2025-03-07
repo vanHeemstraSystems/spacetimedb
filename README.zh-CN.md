@@ -1,11 +1,11 @@
 spacetimedb
 
-# spacetimedb
+# SpaceTimeDB
 
 > 板条
 
 -   [DNS](./DNS.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [文档](./DOCUMENTATION.md)
 -   [词汇表](./GLOSSARY.md)
 -   [孵化](./HATCH.md)
 -   [主持人](./HOSTS.md)
